@@ -23,12 +23,12 @@ Experienced **Full Stack Developer** with 4+ years of expertise in building scal
 
 ## 🛠️ Tech Stack  
 
-**Frontend:** React, Next.js, Angular, Redux, Material UI, AgGrid, GraphQL  
-**Backend:**  Node.js, Java, Python, PHP, SQL
-**Backend Frameworks:** Express, Laravel, Django, Spring Boot, Spring Cloud, Spring AI, Spring JPA/ Hibernate 
-**Databases:** PostgreSQL/PostGIS, MySQL, MongoDB, Neo4j  
-**GIS Tools:** QGIS, Geoserver, Leaflet, OpenLayers, Mapbox, Cesium.js  
-**DevOps:** Git, Nginx, SSH, Deployment & Monitoring  
+- **Frontend:** React, Next.js, Angular, Redux, Material UI, AgGrid, GraphQL  
+- **Backend:**  Node.js, Java, Python, PHP, SQL
+- **Backend Frameworks:** Express, Laravel, Django, Spring Boot, Spring Cloud, Spring AI, Spring JPA/ Hibernate 
+- **Databases:** PostgreSQL/PostGIS, MySQL, MongoDB, Neo4j  
+- **GIS Tools:** QGIS, Geoserver, Leaflet, OpenLayers, Mapbox, Cesium.js  
+- **DevOps:** Git, Nginx, SSH, Deployment & Monitoring  
 
 ---
 
