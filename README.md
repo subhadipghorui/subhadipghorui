@@ -16,7 +16,7 @@ Experienced **Full Stack Developer** with 4+ years of expertise in building scal
 - Specialized in **React, Next.js, Node.js, Python, and Java**.  
 - Skilled in **micro-frontend (MFE) architecture** migration and design.  
 - Hands-on with **GIS mapping libraries** (Leaflet, OpenLayers, Mapbox, Cesium.js).  
-- Strong database experience with **PostgreSQL/PostGIS, MySQL, Neo4j**.  
+- Strong database experience with **PostgreSQL/PostGIS, MySQL, MongoDB, Neo4j**.  
 - Passionate about performance optimization, clean code, and user experience.  
 
 ---
@@ -24,8 +24,9 @@ Experienced **Full Stack Developer** with 4+ years of expertise in building scal
 ## 🛠️ Tech Stack  
 
 **Frontend:** React, Next.js, Angular, Redux, Material UI, AgGrid, GraphQL  
-**Backend:** Node.js, Express, Laravel, Spring Boot, Django  
-**Databases:** PostgreSQL/PostGIS, MySQL, Neo4j  
+**Backend:**  Node.js, Java, Python, PHP, SQL
+**Backend Frameworks:** Express, Laravel, Django, Spring Boot, Spring Cloud, Spring AI, Spring JPA/ Hibernate 
+**Databases:** PostgreSQL/PostGIS, MySQL, MongoDB, Neo4j  
 **GIS Tools:** QGIS, Geoserver, Leaflet, OpenLayers, Mapbox, Cesium.js  
 **DevOps:** Git, Nginx, SSH, Deployment & Monitoring  
 
