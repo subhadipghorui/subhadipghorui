@@ -85,15 +85,6 @@ Experienced **Full Stack Developer** with 4+ years of expertise in building scal
 
 ## 🌟 Fun Facts  
 
-- 🎥 I create **tech tutorials on YouTube**.  
-- 🌍 Love building **geo-spatial applications** & IoT dashboards.  
-- ✍️ Blogger & open-source contributor.  
-
-
----
-
-## 🌟 Fun Facts  
-
 - 🎥 I create **tech tutorials on YouTube** **[myiotlab](www.youtube.com/@myiotlab4479)**.  
 - 🌍 Love building **geo-spatial applications** & IoT dashboards.  
 - ✍️ Blogger & open-source contributor.  
