@@ -32,28 +32,6 @@ Experienced **Full Stack Developer** with 4+ years of expertise in building scal
 
 ---
 
-## 💼 Work Experience  
-
-- **Senior Software Engineer @ Brillio (2024 - Present)**  
-  - Building **MFE-based applications** using React, Next.js, Angular.  
-  - GIS data management with **Geoserver + Postgres**.  
-  - Code review & best practice implementation.  
-
-- **Full Stack Developer @ Uplers (2022 - 2024)**  
-  - Developed **REST APIs** with Laravel & Express.  
-  - Integrated **Stripe, RazorPay, Twilio** for enterprise solutions.  
-  - Deployed and maintained production/UAT environments.  
-
-- **Jr. Full Stack Developer @ Rotten Grapes Pvt Ltd (2021 - 2022)**  
-  - Built APIs with **Django + PostgreSQL**.  
-  - Worked with **GIS layers, WMS/WFS services**.  
-
-- **Freelancer & Content Creator (2019 - Present)**  
-  - Developed websites & tutorials at [myiotlab.in](http://myiotlab.in).  
-  - Built **Web GIS & IoT dashboards** for real-time monitoring.  
-
----
-
 ## 🚀 Projects  
 
 ### 🔹 Geospatial & GIS Projects  
