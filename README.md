@@ -35,7 +35,7 @@ Experienced **Full Stack Developer** with 4+ years of expertise in building scal
 ## 🚀 Projects  
 
 ### 🔹 Geospatial & GIS Projects  
-- **[GNSS NMEA Analysis Tool](#)** – Built with **Cesium.js**, enabling users to upload NMEA data and visualize satellite positions in **2D/3D**, with **viewshed analysis** and signal strength tracking.  
+- **[GNSS NMEA Analysis Tool](https://gnss-track-analyzer.myiotlab.in/)** – Built with **Cesium.js**, enabling users to upload NMEA data and visualize satellite positions in **2D/3D**, with **viewshed analysis** and signal strength tracking.  
 - **Network Topology Viewer (NTV)** – SPA with **MFE architecture** for telecom domain to manage network topology, monitor assets, and analyze spatial data quality.  
 - **[GIS Dashboard – satsense.co](https://satsense.co/)** – Full-stack Web GIS portal using **OpenLayers, Geoserver, Django** for spatial data visualization with layer controls, permissions, and attribute queries.  
 - **[Air Quality Monitoring GIS Dashboard](http://aqms.myiotlab.in/public/dashboard)** – IoT-based real-time AQI dashboard with multiple sensor data visualized on a web map.  
