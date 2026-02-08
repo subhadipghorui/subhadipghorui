@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Subhadip Ghorui  
 
-🚀 **Senior Software Development Engineer** | Full Stack Developer | GIS Enthusiast | Cesium Certified 
+🚀 **Senior Software Development Engineer| GenAI | Full Stack Developer | GIS Enthusiast | Cesium Certified **
 
 📍 Bengaluru, India  
 📧 [subhadipghorui105@gmail.com](mailto:subhadipghorui105@gmail.com)  
