@@ -28,7 +28,7 @@ Experienced **Full Stack Developer** with 4+ years of expertise in building scal
 - **Backend Frameworks:** Express, Laravel, Django, Spring Boot, Spring Cloud, Spring AI, Spring JPA/ Hibernate 
 - **Databases:** PostgreSQL/PostGIS, MySQL, MongoDB, Neo4j  
 - **GIS Tools:** QGIS, Geoserver, Leaflet, OpenLayers, Mapbox, Cesium.js  
-- **DevOps:** Git, Nginx, SSH, Deployment & Monitoring  
+- **DevOps:** AWS Cloud, Git, Nginx, SSH, Deployment & Monitoring  
 
 ---
 
@@ -45,6 +45,7 @@ Experienced **Full Stack Developer** with 4+ years of expertise in building scal
 - **FTTH/FTTH BOM** – Implemented GIS-based FTTH asset mapping and automated BOM generation reports to support networkplanning, deployment, and cost estimation.  
 
 ### 🔹 Full Stack Applications  
+- **[GenAI Advanced Search](https://github.com/subhadipghorui/subhadipghorui/GenAI-Student-Database-API)** - Built a GenAI-powered natural language query system enabling users to run complex database searches using plain language, replacing traditional advanced search with secure, AI-driven prompt-to-SQL intelligence.
 - **[Merlin ERP Inventory System](https://merlin-power.com/)** – Engineered a full-stack Inventory Management System supporting customer, order, product, pricing, and stock management, with role-based access control and customized dashboards to improve security, visibility, and operational efficiency.
 - **[Carekeepr Job Portal](https://www.linkedin.com/company/carekeepr/about/)** – Built a full-stack Job Portal application enabling employers to post jobs, manage the hiring workflow, and send email notifications, while allowing candidates to apply for roles and communicate directly with employers.
 - **[Project Management System](https://uplers.in)** – Designed and implemented a full-stack Node.js application that streamlines customer management, project planning, task execution, resource allocation, and support ticket handling throughout the full project management lifecycle.
